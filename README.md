@@ -20,9 +20,3 @@ It is designed to help users track price trends, analyze volatility with Bolling
 * **Visualization:** [Plotly](https://plotly.com/python/)
 * **Data Manipulation:** [Pandas](https://pandas.pydata.org/)
 
-## 🚀 How to Run Locally
-
-### 1. Clone the Repository
-```bash
-git clone [https://github.com/your-username/crypto-dashboard.git](https://github.com/your-username/crypto-dashboard.git)
-cd crypto-dashboard
