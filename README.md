@@ -20,3 +20,4 @@ It is designed to help users track price trends, analyze volatility with Bolling
 * **Visualization:** [Plotly](https://plotly.com/python/)
 * **Data Manipulation:** [Pandas](https://pandas.pydata.org/)
 
+### Live Demo https://crypto-dashboard-tooba.streamlit.app/
